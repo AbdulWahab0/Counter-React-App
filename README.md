@@ -1,4 +1,4 @@
-This project was made following this awesome React crash course by Mosh.
+This project was made following this awesome [React crash](https://www.youtube.com/watch?v=Ke90Tje7VS0) React crash course by Mosh.
 
 ## Available Scripts
 
