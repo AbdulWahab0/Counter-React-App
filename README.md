@@ -2,7 +2,7 @@ This project was made following this awesome [React crash](https://www.youtube.c
 
 Counter with React
 ---
-<img src="corona.png" width="60%" height="60%" />
+<img src="counterApp.png" width="60%" height="60%" />
 
 ## Available Scripts
 
