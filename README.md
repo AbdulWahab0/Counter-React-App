@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made following this awesome React crash course by Mosh.
 
 ## Available Scripts
 
